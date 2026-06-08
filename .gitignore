@@ -1,0 +1,7 @@
+# Day 5: Bluestock Capstone Ignoring Heavy/Local Compiled Files
+*.db
+*.sqlite3
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
